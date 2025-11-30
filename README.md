@@ -10,6 +10,14 @@ conda env create -f environment.yml
 
 ## Inference
 
+```
+bash generate/batch_generate.sh
+```
+
 
 
 ## Train
+
+```
+bash omni_r1/scripts/run_grpo.sh
+```
